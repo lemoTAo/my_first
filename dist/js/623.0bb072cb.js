@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkgshop_1"]=self["webpackChunkgshop_1"]||[]).push([[623],{8623:function(n,u,e){e.r(u),e.d(u,{default:function(){return o}});var r=function(){var n=this,u=n._self._c;return u("div",[n._v("让我康康是哪个小sb打开我")])},s=[],l={name:"GroupOrder"},t=l,c=e(1001),f=(0,c.Z)(t,r,s,!1,null,null,null),o=f.exports}}]);
